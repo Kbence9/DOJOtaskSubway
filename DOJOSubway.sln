@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOJOSubway", "DOJOSubway\DOJOSubway.csproj", "{BCF4BD4E-F774-4323-95F8-E208CFF364C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOJOSubwayTest", "DOJOSubwayTest\DOJOSubwayTest.csproj", "{86A9083F-AA1F-4EF5-B367-319D48FD6F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF4BD4E-F774-4323-95F8-E208CFF364C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF4BD4E-F774-4323-95F8-E208CFF364C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF4BD4E-F774-4323-95F8-E208CFF364C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF4BD4E-F774-4323-95F8-E208CFF364C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86A9083F-AA1F-4EF5-B367-319D48FD6F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A9083F-AA1F-4EF5-B367-319D48FD6F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A9083F-AA1F-4EF5-B367-319D48FD6F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A9083F-AA1F-4EF5-B367-319D48FD6F89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
